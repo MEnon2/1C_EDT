@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7b68a731-e304-4f9a-908f-0206f1680462">
+  <name>КонфигурацияНаGit</name>
+  <synonym>
+    <key>ru</key>
+    <value>Конфигурация на git</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="8e006fbd-6ef1-4d88-aba0-a3f65c68a0ba"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="aefb29e4-f17c-4628-936b-26142cc9a63a"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="385cd20a-b5c0-4724-b592-d4c51a2e7104"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="4a59eec1-5814-4e76-8f66-ec788d8007bb"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="c220d767-097f-4893-b954-526b2ac2a037"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="abac7e84-c74f-415d-a8a5-ec26980e8360"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="62816eb5-9571-40a6-a81a-2fd538d1ad62"/>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.21</compatibilityMode>
+  <languages uuid="c5025b7f-b58d-478d-8a49-e47872f79e42">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
