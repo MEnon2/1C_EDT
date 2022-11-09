@@ -39,4 +39,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.Сообщение</catalogs>
+  <dataProcessors>DataProcessor.Обработка</dataProcessors>
 </mdclass:Configuration>
